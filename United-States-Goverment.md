@@ -1,4 +1,4 @@
-🇺🇸 United States: Executive Departments
+# 🇺🇸 United States: Executive Departments
 
 The head of a US Executive Department is called the Secretary (except for the Department of Justice, whose head is the Attorney General). These officials form the President's Cabinet.
 | Department of State | Cabinet Secretary (Minister) | Core Responsibilities |
