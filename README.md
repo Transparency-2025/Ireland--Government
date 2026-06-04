@@ -1,6 +1,7 @@
 # Public Sector & NGO Directory – IE, UK, NI
 
 A curated, open-source directory of government departments, agencies, and major non-governmental organisations in Ireland, the United Kingdom, and Northern Ireland.  
+
 All data is provided in ready‑to‑use Markdown tables with official websites and public enquiry email addresses.
 
 ## Features
